@@ -50,8 +50,14 @@ I also design websites and games 🎮.
 <h2 align="center">🔗 Links</h2>
 
 <p align="center">
-🌍 <a href="https://konoara.netlify.app">About me</a> • 🎥 YouTube • 🎮 Twitch • 💬 Discord • 🕹️ Roblox
+🌍 <a href="https://konoara.netlify.app">About me</a> • 
+🎥 <a href="https://www.youtube.com/@Konoarus">YouTube</a> • 
+🎮 <a href="https://www.twitch.tv/konoaru">Twitch</a> • 
+💬 <a href="https://discord.gg/nHGRXZujvW">Discord</a> • 
+🕹️ <a href="https://www.roblox.com/fr/users/1507506635/profile">Roblox</a> • 
+🔗 <a href="https://guns.lol/Konoaru">guns.lol</a>
 </p>
+
 
 ---
 
