@@ -1,28 +1,28 @@
-<h1 align="center">👋 Salut, moi c’est Konoaru</h1>
+<h1 align="center">👋 Hey i'm Konoaru</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%" alt="Bannière animée">
 </p>
 
 <p align="center">
-Développeur passionné en <b>C#</b> et créateur de plugins pour <b>SCP: Secret Laboratory</b>.<br>
-Fondateur de serveurs RP comme <b>Speed Dark RP</b> et <b>Speed Semi RP</b>.<br>
-Je conçois aussi des sites web et des jeux 🎮.
+Passionate <b>C#</b> developer and plugin creator for <b>SCP: Secret Laboratory</b>.<br>
+Founder of RP servers such as <b>Speed Dark RP</b> and <b>Speed Semi RP</b>.<br>
+I also design websites and games 🎮.
 </p>
 
 ---
 
-<h2 align="center">🚀 Mes projets</h2>
+<h2 align="center">🚀 My Projects</h2>
 
 <p align="center">
 🔧 Plugins SCP:SL (Exiled, C#)<br>
-🌐 Sites web : <a href="https://konoara.netlify.app">Portfolio</a><br>
-🎲 Jeux & créations sur Roblox
+🌐 About me : <a href="https://konoara.netlify.app">Portfolio</a><br>
+🎲 Speedy Community Owner
 </p>
 
 ---
 
-<h2 align="center">🛠️ Compétences</h2>
+<h2 align="center">🛠️ Competences</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -34,7 +34,7 @@ Je conçois aussi des sites web et des jeux 🎮.
 
 ---
 
-<h2 align="center">📊 Mon GitHub en action</h2>
+<h2 align="center">📊 My Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=radical&hide_border=true">
@@ -44,25 +44,18 @@ Je conçois aussi des sites web et des jeux 🎮.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=radical&hide_border=true">
 </p>
 
----
-
-<h2 align="center">⚡ Animations</h2>
-
-<p align="center">
-<img src="https://github.com/Konoaru384/Konoaru384/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 
 ---
 
-<h2 align="center">🔗 Liens</h2>
+<h2 align="center">🔗 Links</h2>
 
 <p align="center">
-🌍 <a href="https://konoara.netlify.app">Portfolio</a> • 🎥 YouTube • 🎮 Twitch • 💬 Discord • 🕹️ Roblox
+🌍 <a href="https://konoara.netlify.app">About me</a> • 🎥 YouTube • 🎮 Twitch • 💬 Discord • 🕹️ Roblox
 </p>
 
 ---
 
 <p align="center">
-✨ <i>“Créer, coder, partager — et toujours aller plus loin.”</i> ✨
+✨ <i>“Create, code, share — and always go further.”</i> ✨
 </p>
 
