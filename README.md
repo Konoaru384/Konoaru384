@@ -30,27 +30,25 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=transparent&no-frame=true&margin-w=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=discord&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&bg_color=00000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">📊 Stats</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
