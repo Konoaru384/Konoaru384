@@ -29,15 +29,6 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
-<p align="center">
-🔧 SCP:SL Plugins (Exiled, C#)<br>
-🌐 <a href="https://konoara.netlify.app">Portfolio</a><br>
-🎲 Speedy Community Owner
-</p>
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=discord&no-frame=true&margin-w=10&row=2&column=4" />
@@ -45,7 +36,6 @@
 
 ---
 
-<h2 align="center">📈 Activity Graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyo-night&hide_border=true" />
 </p>
