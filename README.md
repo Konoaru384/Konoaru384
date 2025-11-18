@@ -1,4 +1,3 @@
-<HyperText>Hover me</HyperText>
 <h1 align="center">👋 Hey i'm Konoaru</h1>
 
 <p align="center">
