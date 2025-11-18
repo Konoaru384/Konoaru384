@@ -1,12 +1,12 @@
-<!-- Banner animé haut -->
+<!-- Banner animé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Konoaru&fontSize=60&fontColor=fff&animation=twinkling" />
 </p>
 
-<h1 align="center">✨ Welcome to my Universe ✨</h1>
+<h1 align="center">👋 Hey, I'm <b>Konoaru</b></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Creative+Coder+%7C+Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
 </p>
 
 ---
@@ -27,27 +27,14 @@
 <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,html,css,js,nodejs,git,bash,dotnet,electron,blender,photoshop&theme=dark" />
 </p>
 
-<p align="center">
-💻 <b>Main Stack:</b> C#, C++, Python, PHP, JavaScript (Node.js)<br>
-🎨 <b>Design Tools:</b> Photoshop, Blender<br>
-⚡ <b>Frameworks:</b> .NET, Electron<br>
-🔧 <b>Other Skills:</b> Git, Bash, Web Dev (HTML/CSS)
-</p>
-
 ---
 
-<h2 align="center">📜 Timeline</h2>
-
+<h2 align="center">🚀 Projects</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=false&theme=radical&hide_border=true&custom_title=Journey+Timeline" />
+🔧 SCP:SL Plugins (Exiled, C#)<br>
+🌐 <a href="https://konoara.netlify.app">Portfolio</a><br>
+🎲 Speedy Community Owner
 </p>
-
-- 🎮 **2019** → Création des premiers serveurs RP (Speed Dark RP, Speed Semi RP)  
-- 🔧 **2020** → Développement de plugins SCP:SL en C#  
-- 🌐 **2021** → Lancement de mon portfolio web  
-- 🚀 **2022** → Expansion de la Speedy Community  
-- 🎲 **2023** → Développement de projets multi‑plateformes (Electron, .NET)  
-- ✨ **2024+** → Toujours plus de créations, partage et innovation  
 
 ---
 
