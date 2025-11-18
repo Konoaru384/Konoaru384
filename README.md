@@ -28,11 +28,6 @@
 </p>
 
 <p align="center">
-💻 <b>Main Stack:</b> C#, C++, Python, PHP, JavaScript (Node.js)<br>
-🎨 <b>Design Tools:</b> Photoshop, Blender<br>
-⚡ <b>Frameworks:</b> .NET, Electron<br>
-🔧 <b>Other Skills:</b> Git, Bash, Web Dev (HTML/CSS)
-</p>
 
 ---
 
