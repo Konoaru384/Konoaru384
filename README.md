@@ -42,13 +42,13 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=dark&hide_border=true" />
 </p>
 
 ---
