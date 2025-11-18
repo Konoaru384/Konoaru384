@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konoaru</h1>
 <h3 align="center">A passionate developer and plugin creator for SCP: Secret Laboratory</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konoaru384&label=Profile%20views&color=0e75b6&style=flat" alt="konoaru384" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konoaru384" alt="konoaru384" /></a> </p>
 
