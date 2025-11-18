@@ -1,5 +1,3 @@
-import { HyperText } from "@/components/ui/hyper-text"
-
 <h1 align="center">👋 Hey i'm Konoaru</h1>
 
 <p align="center">
