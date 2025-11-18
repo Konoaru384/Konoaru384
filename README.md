@@ -8,7 +8,7 @@
  🔭 I’m currently working on https://discord.gg/nHGRXZujvW
  </p>
  <p align="center">
- 🌱 I’m currently learning **How to create web browsers and apps with ELECTRON**
+ 🌱 I’m currently learning <b>How to create web browsers and apps with ELECTRON**</b>
 </p>
 <p align="center">
  👨‍💻 All of my projects are available at https://konoara.netlify.app
