@@ -1,4 +1,9 @@
-<h1 align="center">✨ Hey, I'm <b>Konoaru</b> ✨</h1>
+<!-- Banner animé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=200&section=header&text=Konoaru&fontSize=60&fontColor=fff&animation=twinkling" />
+</p>
+
+<h1 align="center">👋 Hey, I'm <b>Konoaru</b></h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner" alt="Typing SVG" />
@@ -8,7 +13,7 @@
 
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
-<a href="https://www.youtube.com/c/konoarus"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/konoarus"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://discord.gg/nHGRXZujvW"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.twitch.tv/konoaru"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://konoara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -18,7 +23,7 @@
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js,nodejs,git,bash,blender,photoshop,electron,dotnet" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js,nodejs,git,bash,blender,photoshop,electron,dotnet&theme=dark" />
 </p>
 
 ---
@@ -34,20 +39,20 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=discord&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
 <h2 align="center">📊 Stats</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -64,6 +69,12 @@
 
 ---
 
+<!-- Footer animé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer"/>
+</p>
+
 <p align="center">
 ✨ <i>“Create, code, share — and always go further.”</i> ✨
 </p>
+
