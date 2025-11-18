@@ -35,12 +35,14 @@
 
 ---
 
+<h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=transparent&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&bg_color=00000000&color=00F5FF&line=00F5FF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
+<h2 align="center">📊 Stats</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=transparent&hide_border=true" />
 </p>
