@@ -5,17 +5,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konoaru384" alt="konoaru384" /></a> </p>
 
 <p align="center">
- 🔭 I’m currently working on [Speedy COMMUNITY](https://discord.gg/nHGRXZujvW)
+ 🔭 I’m currently working on https://discord.gg/nHGRXZujvW
  </p>
  <p align="center">
  🌱 I’m currently learning **How to create web browsers and apps with ELECTRON**
 </p>
 <p align="center">
- 👨‍💻 All of my projects are available at [https://konoara.netlify.app](https://konoara.netlify.app)
+ 👨‍💻 All of my projects are available at https://konoara.netlify.app
 </p>
 <p align="center">
  📫 How to reach me **speedsemirp@gmail.com**
 </p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/konoarus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="konoarus" height="30" width="40" /></a>
