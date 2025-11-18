@@ -14,7 +14,7 @@
  👨‍💻 All of my projects are available at https://konoara.netlify.app
 </p>
 <p align="center">
- 📫 How to reach me **speedsemirp@gmail.com**
+ 📫 How to reach me <b>speedsemirp@gmail.com</b>
 </p>
 
 
