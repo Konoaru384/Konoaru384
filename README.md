@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Konoaru&fontSize=60&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Konoaru&fontSize=60&fontColor=fff&animation=twinkling" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <b>Konoaru</b></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
 </p>
 
 ---
@@ -23,20 +23,20 @@
 <h2 align="center">🛠️ Languages & Tools I Master</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,html,css,js,nodejs,git,bash,dotnet,electron,blender,photoshop&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,php,html,css,js,nodejs,git,bash,dotnet,electron,blender,photoshop&theme=tokyonight" />
 </p>
 
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=discord&no-frame=true&margin-w=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,5 +75,5 @@
 
 <!-- Footer animé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=120&section=footer"/>
 </p>
