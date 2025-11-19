@@ -28,13 +28,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Konoaru384&theme=discord&no-frame=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyo-night&hide_border=true" />
 </p>
