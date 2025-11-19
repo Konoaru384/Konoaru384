@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
