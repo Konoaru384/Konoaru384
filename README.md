@@ -34,18 +34,6 @@
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Konoaru384&show_icons=true&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konoaru384&layout=compact&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konoaru384&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">🔗 Links</h2>
 <p align="center">
 🌍 <a href="https://konoara.netlify.app">About me</a> • 
