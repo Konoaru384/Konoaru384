@@ -34,16 +34,6 @@
 
 ---
 
-Snake :p Thanks to Snivvy'S for the help with  this cool snake animation :
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Konoaru384/Konoaru384/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Konoaru384/Konoaru384/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Konoaru384/Konoaru384/output/github-snake.svg">
-</picture>
-
----
-
 <h2 align="center">🔗 Links</h2>
 <p align="center">
 🌍 <a href="https://konoara.netlify.app">About me</a> • 
