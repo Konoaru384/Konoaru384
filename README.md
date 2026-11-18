@@ -19,12 +19,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Konoaru384&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 <h2 align="center">🔗 Links</h2>
 <p align="center">
 <a href="https://konoara.netlify.app">About me</a> • 
