@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
 </p>
 
----
+
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -18,7 +18,7 @@
 <a href="https://konoara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
+
 <h2 align="center">🔗 Links</h2>
 <p align="center">
 <a href="https://konoara.netlify.app">About me</a> • 
@@ -29,7 +29,6 @@
 <a href="https://guns.lol/Konoaru">guns.lol</a>
 </p>
 
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Konoaru384&style=for-the-badge&color=F75C7E" alt="Profile views"/>
