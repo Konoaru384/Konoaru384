@@ -7,6 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
 </p>
 
+PAY ATTENTION : After the 18/11/2026 i deleted a lot of my public repositories. For more information just contact me on discord.... 
+
 
 
 <h2 align="center">Connect with me</h2>
