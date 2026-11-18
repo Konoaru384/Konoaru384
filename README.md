@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">👋 Hey, I'm <b>Konoaru</b></h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=C%23+Developer+%7C+Plugin+Creator;Web+%26+Game+Designer;Community+Builder+%7C+Speedy+Owner;Always+Learning+%26+Sharing" />
 </p>
